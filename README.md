@@ -16,5 +16,5 @@ I am thoroughly enjoying these contests and having a lot of fun solving question
 I have so far given my contests in Python 3, however, I have started to attempt practice problems in C++. 
 I am also trying to balance this with the DSA lectures playlist, the latter I feel is becoming a little hard to tackle without much guidance from others. 
 
-##30/12/2022
+## 30/12/2022
 The "year" is coming to an end and I'm really proud of my progress these past 2 weeks! Not waiting for the new year to start writing a new chapter in my journey is probably one of the best decisions I have made. I crossed 1000 on codeforces and am doing my best to solve a problem a day. The C++ switch makes it all a little harder but it's probably for the better. Cheers to 2023! 
